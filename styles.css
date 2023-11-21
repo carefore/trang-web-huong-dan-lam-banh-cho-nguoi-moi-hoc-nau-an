@@ -1,0 +1,13 @@
+/* Các style cho trang web */
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+#recipeList {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
